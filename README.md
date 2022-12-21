@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Big Analytics S.A.**
 
-- 🌱 I’m currently learning **React, DevOps**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Java,Python,Angular, Html/Css/Js**
+- 💬 Ask me about **Java,Python,Angular,React, Html/Css/Js**
 
 - 📫 How to reach me **ismaelher2001@gmail.com**
 
